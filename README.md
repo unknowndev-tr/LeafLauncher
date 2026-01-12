@@ -106,6 +106,10 @@ Minecraft, Mojang Studios’un tescilli markasıdır.
 
 ## 📷 Ekran Görüntüleri
 
-| Ana Ekran | Giriş | Ayarlar |
+| Bootstrap | Giriş | Ana Sayfa |
 |----------|-------|---------|
-| ![](assets/main.png) | ![](assets/login.png) | ![](assets/settings.png) |
+| ![](assets/bootstrap.png) | ![](assets/login.png) | ![](assets/home.png) |
+
+| Hesaplar | Ayarlar | Oyna |
+|----------|-------|---------|
+| ![](assets/accounts.png) | ![](assets/settings.png) | ![](assets/play.png) |

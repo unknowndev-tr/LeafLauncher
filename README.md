@@ -3,6 +3,7 @@
 > 🚀 **Modern, ücretsiz ve açık kaynaklı Minecraft başlatıcısı**
 
 LeafLauncher, **UnknownDev** tarafından aktif olarak geliştirilen; günümüzün en **güncel**, **yenilikçi** ve **kullanıcı dostu** Minecraft başlatıcılarından biridir.  
+
 Diğer ücretli veya kapalı kaynak başlatıcıların aksine **tamamen ücretsiz** ve **açık kaynak** olarak sunulur. Böylece hem güvenli hem de özelleştirilebilir bir deneyim sağlar.
 
 Kendi özel Minecraft başlatıcısını geliştirmek isteyenler, LeafLauncher’ı özgürce düzenleyip kullanabilir. 🍀

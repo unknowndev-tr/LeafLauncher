@@ -13,7 +13,7 @@ Kendi özel Minecraft başlatıcısını geliştirmek isteyenler, LeafLauncher�
 ## ✨ Öne Çıkan Özellikler
 
 - 🎨 Akıcı **animasyonlar** ve **ses efektleri**
-- 🪟 Yumuşak geçişli **çoklu sayfa** ve **popup** içerikler
+- 🤯 Yumuşak geçişli **çoklu sayfa** ve **popup** içerikler
 - 👤 **Hesap kayıt sistemi** ve çoklu hesap seçim ekranı
 - ⚙️ Genişletilmiş **oyun içi** ve **başlatıcı ayarları**
 - 🧼 Sade, modern ve **kullanışlı arayüz**
@@ -29,7 +29,7 @@ Kendi özel Minecraft başlatıcısını geliştirmek isteyenler, LeafLauncher�
 
 | Platform | Durum |
 |--------|------|
-| 🪟 Windows | ✅ Destekleniyor |
+| 🌊 Windows | ✅ Destekleniyor |
 | 🍎 macOS | ❌ Yakında |
 | 🐧 Linux | ❌ Yakında |
 

@@ -64,10 +64,11 @@ Kendi özel Minecraft başlatıcısını geliştirmek isteyenler, LeafLauncher�
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- ⚡ **Electron**
-- ⚛️ **React**
-- 🔥 **Vite**
-- 🧠 Modern JavaScript / TypeScript mimarisi
+- ⚡ Electron — Masaüstü uygulama altyapısı
+- ⚛️ React (JSX) — Kullanıcı arayüzü
+- 🔥 Vite — Build ve geliştirme aracı
+- 🟢 Node.js — Backend / runtime
+- 📦 electron-builder — Paketleme ve dağıtım
 
 ---
 
